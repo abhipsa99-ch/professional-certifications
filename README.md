@@ -11,7 +11,7 @@ Welcome to my Professional Certifications repository. This repository showcases 
 
 - Professional Certificates
 - Course Completion Certificates
-- Biotechnology Certificates
+- Biotechnology Certifications
 - Renewable Energy Certifications
 
 ---
@@ -51,7 +51,7 @@ Welcome to my Professional Certifications repository. This repository showcases 
 
 ## Repository Purpose
 
-This repository serves as a collection of my professional certifications, demonstrating my commitment to continuous learning, technical excellence, and career development in renewable energy and Biotechnology engineering.
+- This repository serves as a collection of my professional certifications, demonstrating my commitment to continuous learning, technical excellence, and career development in renewable energy and biotechnology engineering.
 ---
 
 ---
