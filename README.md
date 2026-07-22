@@ -3,7 +3,7 @@ A curated collection of professional certifications in renewable energy, enginee
 
 ## Overview
 
-Welcome to my Professional Certifications repository. This repository showcases certificates earned through academic, technical, and professional training in renewable energy, biotechnology, laboratory sciences, and engineering. These certifications reflect my commitment to continuous learning and professional development across multidisciplinary fields.
+Welcome to my Professional Certifications repository. This repository showcases certificates earned through academic training in renewable energy and biotechnology. These certifications reflect my commitment to continuous learning and professional development across multidisciplinary fields.
 
 ---
 
@@ -11,8 +11,7 @@ Welcome to my Professional Certifications repository. This repository showcases 
 
 - Professional Certificates
 - Course Completion Certificates
-- Technical Training Certificates
-- Laboratory Certifications
+- Biotechnology Certificates
 - Renewable Energy Certifications
 
 ---
@@ -44,8 +43,7 @@ Welcome to my Professional Certifications repository. This repository showcases 
 ### Biotechnology & Laboratory Sciences
 
 - Current Good Manufacturing Practices (cGMP)
-- Microbiological Testing
-- Media Preparation Techniques
+- Different types of media used in Microbiolofy Labs
 - Laboratory Quality Assurance
 - Good Laboratory Practices (GLP)
 
@@ -53,8 +51,7 @@ Welcome to my Professional Certifications repository. This repository showcases 
 
 ## Repository Purpose
 
-This repository serves as a collection of my professional certifications, demonstrating my commitment to continuous learning, technical excellence, and career development in renewable energy, biotechnology, engineering, and laboratory sciences.
-
+This repository serves as a collection of my professional certifications, demonstrating my commitment to continuous learning, technical excellence, and career development in renewable energy and Biotechnology engineering.
 ---
 
 ---
