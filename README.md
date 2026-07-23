@@ -3,7 +3,7 @@ A curated collection of professional certifications in renewable energy, enginee
 
 ## Overview
 
-Welcome to my Professional Certifications repository. This repository showcases certificates earned through academic training in renewable energy and biotechnology. These certifications reflect my commitment to continuous learning and professional development across multidisciplinary fields.
+Welcome to my Professional Certifications repository. This repository showcases certificates earned through academic training and professional training in renewable energy and biotechnology. These certifications reflect my commitment to continuous learning and professional development across multidisciplinary fields.
 
 ---
 
@@ -26,8 +26,8 @@ Welcome to my Professional Certifications repository. This repository showcases 
 ### Biotechnology & Laboratory Sciences
 
 - Current Good Manufacturing Practices (cGMP)
-- Microbiology Laboratory Testing Requirements
 - Media Preparation for Microbiological Testing
+- Production of biodiesel through the transesterification of Jatropha oil
 
 ---
 
